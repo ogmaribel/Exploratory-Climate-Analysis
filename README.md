@@ -7,11 +7,11 @@ Precipitation Analysis
 ![Precipitation](Images/Precipitation_plot.png)
 
 Station Analysis
-![Precipitation.jpeg](Images/Temperature_histogram.png.png)
+![Station](Images/Temperature_histogram.png.png)
 
 Temperature Analysis
-![Precipitation.jpeg](Images/Average_temperature.png)
-![Precipitation.jpeg](Images/Daily_Normals.png)
+![Temperature1](Images/Average_temperature.png)
+![Temperature2](Images/Daily_Normals.png)
 
 
 
