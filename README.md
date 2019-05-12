@@ -2,6 +2,7 @@
 
 ## Step 1 - Climate Analysis and Exploration
 A jupyter notebook is created to gather climatological data from Honolulu, Hawaii from a SQLite file to perform the following analysis:
+
 Precipitation Analysis
 ![Precipitation.jpeg](Images/Precipitation_plot.png)
 
