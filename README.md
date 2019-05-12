@@ -2,7 +2,7 @@
 
 ![Precipitation.jpeg](Images/Precipitation_plot.png)
 ![Precipitation.jpeg](Images/Daily_Normals.png)
-![Precipitation.jpeg](Images/Precipitation_plot.png)
+![Precipitation.jpeg](Images/Average_temperature.png)
 ![Precipitation.jpeg](Images/Precipitation_plot.png)
 
 
