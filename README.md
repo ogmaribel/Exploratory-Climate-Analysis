@@ -7,7 +7,7 @@ Precipitation Analysis
 ![Precipitation](Images/Precipitation_plot.png)
 
 Station Analysis
-![Station](Images/Temperature_histogram.png.png)
+![Station](Images/Temperature_histogram.png)
 
 Temperature Analysis
 ![Temperature1](Images/Average_temperature.png)
