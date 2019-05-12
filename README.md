@@ -1,9 +1,18 @@
 # Surfs Up!
 
+## Step 1 - Climate Analysis and Exploration
+A jupyter notebook is created to gather climatological data from Honolulu, Hawaii from a SQLite file to perform the following analysis:
+Precipitation Analysis
 ![Precipitation.jpeg](Images/Precipitation_plot.png)
-![Precipitation.jpeg](Images/Daily_Normals.png)
+
+Station Analysis
+![Precipitation.jpeg](Images/Temperature_histogram.png.png)
+
+Temperature Analysis
 ![Precipitation.jpeg](Images/Average_temperature.png)
-![Precipitation.jpeg](Images/Precipitation_plot.png)
+![Precipitation.jpeg](Images/Daily_Normals.png)
+
+
 
 
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! To help with your trip planning, you need to do some climate analysis on the area. The following outlines what you need to do.
